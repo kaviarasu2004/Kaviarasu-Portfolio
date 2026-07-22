@@ -1,0 +1,310 @@
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Kaviarasu%20K&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Spring%20Boot%20%7C%20React.js%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18)
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(Java+%2B+React);Machine+Learning+Enthusiast;B.Tech+in+IT+%40+AVC+College+of+Engineering;Pursuing+MBA+in+IT+(TNOU)" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![MBA](https://img.shields.io/badge/MBA%20(Pursuing)-Information%20Technology-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaviarasu001)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaviarasu2004)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kaviarasu2004&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/kaviarasu2004?style=for-the-badge&color=6d28d9&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/kaviarasu2004?style=for-the-badge&color=a78bfa&labelColor=1a1a2e)
+
+</div>
+
+<br/>
+
+## 🪐 About Me
+
+```yaml
+name: "Kaviarasu K"
+role: "Full Stack Developer (Java Spring Boot + React.js) | ML-driven Engineering"
+based_in: "Tamil Nadu, India"
+education:
+  - "B.Tech, Information Technology — AVC College of Engineering, Mayiladuturai (CGPA 7.47)"
+  - "MBA, Information Technology — Tamil Nadu Open University (in progress)"
+focus: "Building production-grade full stack systems with Java/Spring Boot and React,
+        layered with applied ML (optimization, classification) to solve real
+        scheduling and operations problems."
+mindset: "Calm problem-solver. Clear communicator. Ships things end-to-end
+          rather than staying in one layer of the stack."
+```
+
+**Open to:** Full Stack Developer roles (Java/Spring Boot + React.js) · AI/ML-integrated engineering roles · Remote/Hybrid opportunities
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+**Backend & Databases**
+
+![Spring](https://skillicons.dev/icons?i=spring) ![Flask](https://skillicons.dev/icons?i=flask) ![MySQL](https://skillicons.dev/icons?i=mysql)
+
+**Cloud, DevOps & Tooling**
+
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman)
+
+<br/>
+
+## 🤖 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Optimization (ILP) | ⭐⭐⭐⭐ | Applied Integer Linear Programming for constrained scheduling problems |
+| Classification Models | ⭐⭐⭐⭐ | Random Forest, Logistic Regression for predictive scheduling logic |
+| Python for ML | ⭐⭐⭐⭐ | scikit-learn based model building and evaluation |
+| Applied ML Integration | ⭐⭐⭐ | Embedding ML decision layers into full stack (Java/React) applications |
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🏥 Medical Scheduling System — ML/AI Capstone</b></summary>
+<br/>
+
+Flagship project combining Integer Linear Programming (ILP) optimization with Random Forest and Logistic Regression models to solve real-world hospital scheduling constraints — the core ML differentiator in this portfolio.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Java, Python (scikit-learn), MySQL |
+| Scale | Multi-constraint scheduling engine |
+| Performance | Optimization-based conflict resolution |
+| Security | Role-based data access |
+| Impact | Automates scheduling decisions that are manually intensive in real hospital settings |
+| Repository | [GitHub](https://github.com/kaviarasu2004) |
+
+</details>
+
+<details>
+<summary><b>🏨 Hospital Management System</b></summary>
+<br/>
+
+Full stack system for managing hospital operations — patient records, staff, and administrative workflows.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Java, Spring Boot, MySQL |
+| Repository | [GitHub](https://github.com/kaviarasu2004) |
+
+</details>
+
+<details>
+<summary><b>🚆 Train Reservation System</b></summary>
+<br/>
+
+Reservation and booking management application handling seat allocation and booking workflows.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Java, MySQL |
+| Repository | [GitHub](https://github.com/kaviarasu2004) |
+
+</details>
+
+<details>
+<summary><b>🏧 ATM System</b></summary>
+<br/>
+
+Simulated core banking transaction system covering deposits, withdrawals, and balance management.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Java, MySQL |
+| Repository | [GitHub](https://github.com/kaviarasu2004) |
+
+</details>
+
+<details>
+<summary><b>🅿️ Smart Parking System — Hackathon Finalist</b></summary>
+<br/>
+
+Smart parking allocation system that reached the finals in a hackathon.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Java, Python |
+| Impact | Hackathon finalist |
+| Repository | [GitHub](https://github.com/kaviarasu2004) |
+
+</details>
+
+<br/>
+
+## 💼 Experience
+
+**Full Stack Development Intern — The DevelopersArena**
+*Remote · 6-Month Program · Started July 2026*
+
+Full stack development internship centered on end-to-end delivery, starting with frontend foundations.
+
+- Delivered Month 1 project: a complete React business website for a fictional design studio
+- Working across the stack with a React-first frontend foundation
+
+`React.js` `JavaScript` `HTML/CSS` `Full Stack`
+
+<br/>
+
+**Data Analytics Intern — CodeAlpha**
+*Remote · 1-Month Program · July–August 2026*
+
+Python-focused data analytics internship with task-based, portfolio-ready deliverables.
+
+- Built and submitted four Python projects: Hangman Game, Stock Portfolio Tracker, Task Automation Script, Basic Chatbot
+- Published each submission to GitHub with an accompanying LinkedIn demo video
+
+`Python` `Data Analytics` `Automation`
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Coding Club Team Captain | Led and mentored junior developers |
+| NSS Community Service | 240+ hours of community service |
+| Smart Parking System | Hackathon finalist |
+
+</div>
+
+<br/>
+
+## 📜 Certifications
+
+**IBM**
+
+![IBM](https://img.shields.io/badge/IBM-Certified-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+**Cisco** *(via Naan Mudhalvan / TNOU)*
+
+![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+**Besant Technologies**
+
+![Besant](https://img.shields.io/badge/Besant%20Technologies-Java%20Full%20Stack%20(9%20Months)-6D28D9?style=flat-square)
+
+<br/>
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](#)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kaviarasu2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviarasu2004&theme=tokyonight&hide_border=true&background=0d0221&stroke=a78bfa&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviarasu2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd" width="49%" />
+
+</div>
+
+<br/>
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaviarasu2004&theme=discord&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaviarasu2004&theme=react-dark&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=c4b5fd&hide_border=true" width="95%" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kaviarasu2004/kaviarasu2004/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - "Advanced Spring Boot architecture and system design"
+  - "MBA coursework in Information Technology (TNOU)"
+building:
+  - "Full stack deliverables for The DevelopersArena internship"
+  - "Python data analytics projects for CodeAlpha"
+exploring:
+  - "Applied ML integration in production full stack systems"
+open_to:
+  - "Full Stack Developer roles (Java Spring Boot + React.js)"
+  - "AI/ML-adjacent engineering roles"
+```
+
+<br/>
+
+## 📫 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaviarasu001)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaviarasu2004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Calm under pressure, clear in communication, and committed to shipping the full stack — not just a slice of it."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer)
+
+</div>
